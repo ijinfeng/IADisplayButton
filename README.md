@@ -14,5 +14,5 @@
     [self.view addSubview:button];
     ...
    ```
- 
+### 支持XIB/SB可视化创建和动态修改。 
    
