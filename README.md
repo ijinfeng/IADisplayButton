@@ -15,4 +15,4 @@
     ...
    ```
 ### 支持XIB/SB可视化创建和动态修改。 
-   
+   ![image](https://github.com/CranzCapatain/IADisplayButton/blob/master/iaDisplayButton.gif)
